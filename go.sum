@@ -1,0 +1,6 @@
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+go-slim.dev/cast v0.0.0-20250826074252-a96d809c9aff h1:X0KcGuec4wO2vaZ0ARqDYkdft82jTdxDXYRPbEqi+Rc=
+go-slim.dev/cast v0.0.0-20250826074252-a96d809c9aff/go.mod h1:cSB01PO5SyjjtLi1d3WrLuWtcev7AI0ihnn5Rq+5ptU=
+go-slim.dev/env v0.0.0-20251105102129-80e5eab9df0d h1:tbpQfaPK832IawTsOREpLeDk37OCZ1kggCmEQBYYfBc=
+go-slim.dev/env v0.0.0-20251105102129-80e5eab9df0d/go.mod h1:lW3yc1KGPJ3FUUQM2IRnpVMx+T3zkIgAXwZNMvq8lGA=
