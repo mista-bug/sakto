@@ -65,7 +65,7 @@ func openMainServer(address string) *http.ServeMux {
 }
 
 func distributionAlgorithm() *httputil.ReverseProxy {
-	algo := strings.ToLower(string(os.Getenv("ALGO")))
+	algo := strings.ToLower(string(cfg.Algorithm))
 	addresses := cfg.MockAddresses
 	switch algo {
 	case "round robin":
